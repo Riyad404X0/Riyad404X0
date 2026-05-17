@@ -22,4 +22,5 @@
 
 
 ### ⚡ 
-<img width="1000" height="660" alt="kitekid" src="https://github.com/user-attachments/assets/87fe8075-f5b7-465b-89a4-812a25d11714" />
+<img width="1000" height="660" alt="kitekid" src="https://github.com/user-attachments/assets/89f79061-f285-4ec5-a84b-88f7dd834247" />
+
