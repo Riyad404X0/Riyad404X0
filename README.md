@@ -2,13 +2,14 @@
 
 # Hi there, I'm [RIYAD or FOX404x0🦊]! 👋 
 <img width="1000" height="660" alt="kitekid" src="https://github.com/user-attachments/assets/89f79061-f285-4ec5-a84b-88f7dd834247" />
-###  🐍 Python Developer 
+###  
 
 
 
 ---
 
 ## 🚀 My Journey
+- 🐍 Python Developer
 - CTF player
 - Try hack me player 
   https://tryhackme.com/p/FOX404
