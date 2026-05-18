@@ -17,8 +17,11 @@
 
 ---
 
-## 🛠️ My Toolbox 
+## 🛠️ My My skill
 - **Programming:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="100" height="100"/>
+</p>
 
 
 ### ⚡ 
