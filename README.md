@@ -19,7 +19,7 @@ Stay curious
 
 ---
 
-## 🛠️ My My skill
+## 🛠️ My skill
 -**Programming:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 -**Linux:** <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624" />
