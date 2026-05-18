@@ -13,7 +13,7 @@
 - Try hack me player 
   https://tryhackme.com/p/FOX404
 
-- 🎮: I enjoy Making Minecraft Mods
+- 🎮: I enjoy Making and programming Minecraft Mods
 
 ---
 
