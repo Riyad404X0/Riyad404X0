@@ -27,7 +27,7 @@
 <h1 align="center">Riyad404X0</h1>
 
 <p align="center">
-  <strong>"I use Arch, btw"</strong> | 🛡️ Cybersecurity Enthusiast | 🐍 Python Developer
+  <strong>"I use Arch, btw"
 </p>
 
 <p align="center">
