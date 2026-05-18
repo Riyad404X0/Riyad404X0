@@ -20,9 +20,10 @@
 ## 🛠️ My My skill
 -**Programming:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 -Linux
-<p align="left">
+-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="100" height="100"/>
 </p>
+-<img src="https://img.shields.io/badge/Kernel-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
                                        
 
 
