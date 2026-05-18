@@ -1,6 +1,7 @@
 # Riyad404X0
 
 # Hi there, I'm [RIYAD or FOX404x0🦊]! 👋 
+Stay curious
 <img width="1000" height="660" alt="kitekid" src="https://github.com/user-attachments/assets/89f79061-f285-4ec5-a84b-88f7dd834247" />
  
 
