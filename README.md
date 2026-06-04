@@ -3,6 +3,7 @@
 # Hi there, I'm [RIYAD AKA FOX404x0🦊]! 👋 
 Stay curious
 <img width="1000" height="660" alt="kitekid" src="https://github.com/user-attachments/assets/89f79061-f285-4ec5-a84b-88f7dd834247" />
+<img width="1200" height="1200" alt="xbox1" src="https://github.com/user-attachments/assets/65c35371-7928-4a4c-b886-c5e35bb67e71" />
  
 
 
